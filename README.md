@@ -259,7 +259,7 @@ confirms that the log-transform was a worthwhile engineering decision.
 
 ```bash
 # Clone the repo
-git clone https://github.com/hasanDSx/credit-card-fraud-detection.git
+git clone https://github.com/hasanDSx/Credit-Card-Fraud-Detection.git
 cd credit-card-fraud-detection
 
 # Create a virtual environment
