@@ -66,7 +66,7 @@ This pipeline addresses that by:
 The first thing to confront is how extreme the class imbalance really is. This is not a
 minor skew — fraud is a needle in a haystack:
 
-![Class Distribution](images/img_01_cell22.png)
+![Class Distribution](img_01_cell22.png)
 
 > 492 fraudulent transactions against 284,315 normal ones. Any model that ignores this will
 > simply predict "Normal" for everything and look great on paper.
