@@ -78,7 +78,7 @@ minor skew — fraud is a needle in a haystack:
 With PCA-transformed features, understanding *which* components carry the fraud signal is
 critical. A full correlation heatmap reveals the hidden structure of the data:
 
-![Correlation Heatmap](img_00_cell20.png)
+![Correlation Heatmap](images/img_00_cell20.png)
 
 The standout finding: **V17 and V14 are strongly negatively correlated with fraud** — meaning
 fraudulent transactions tend to push these components sharply downward. This becomes a key
